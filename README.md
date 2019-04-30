@@ -7,3 +7,6 @@ Microelectromechanical Systems (MEMS) sensors are identified by the optimized al
 applied to Dynamic Allan Variance (DAVAR) to track time-varying stability of sensors. Experiment results demonstrate that
 proposed algorithm could significantly speed up the estimation process of Allan variance while ensuring the accuracy of the
 analysis results, and enable the Allan variance becomes more efficient in practical applications.
+AllanVariance.m*********Original Code of Optimized AllanVariance*****
+test.m *****************Fitting Code*********************************
+data.xlsx***********2-h static x-axis data from MEMS gyo************* 
